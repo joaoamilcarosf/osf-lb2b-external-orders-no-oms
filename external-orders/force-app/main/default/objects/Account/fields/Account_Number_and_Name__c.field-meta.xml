@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Account_Number_and_Name__c</fullName>
+    <description>For reporting purposes</description>
+    <externalId>false</externalId>
+    <formula>AccountNumber &amp; &quot; - &quot; &amp; Name</formula>
+    <inlineHelpText>For reporting purposes</inlineHelpText>
+    <label>Account Number and Name</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

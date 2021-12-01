@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Eligible_for_B2B_Use__c</fullName>
+    <defaultValue>true</defaultValue>
+    <description>Include in adoption metrics</description>
+    <externalId>false</externalId>
+    <inlineHelpText>If checked then included in B2B adoption metrics</inlineHelpText>
+    <label>B2B: Eligible for Onboarding</label>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>false</trackHistory>
+    <type>Checkbox</type>
+</CustomField>

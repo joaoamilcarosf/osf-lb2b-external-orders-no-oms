@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>AV Next Ten</fullName>
+        <default>false</default>
+        <label>AV Next Ten</label>
+    </customValue>
+    <customValue>
+        <fullName>AV SMD</fullName>
+        <default>false</default>
+        <label>AV SMD</label>
+    </customValue>
+    <customValue>
+        <fullName>AV Top Ten</fullName>
+        <default>false</default>
+        <label>AV Top Ten</label>
+    </customValue>
+    <customValue>
+        <fullName>Long McQuade</fullName>
+        <default>false</default>
+        <label>Long McQuade</label>
+    </customValue>
+    <customValue>
+        <fullName>Mass</fullName>
+        <default>false</default>
+        <label>Mass</label>
+    </customValue>
+    <customValue>
+        <fullName>Next Ten</fullName>
+        <default>false</default>
+        <label>Next Ten</label>
+    </customValue>
+    <customValue>
+        <fullName>P&amp;I</fullName>
+        <default>false</default>
+        <label>P&amp;I</label>
+    </customValue>
+    <customValue>
+        <fullName>SMD</fullName>
+        <default>false</default>
+        <label>SMD</label>
+    </customValue>
+    <customValue>
+        <fullName>Top Ten</fullName>
+        <default>false</default>
+        <label>Top Ten</label>
+    </customValue>
+    <customValue>
+        <fullName>Visions</fullName>
+        <default>false</default>
+        <label>Visions</label>
+    </customValue>
+    <customValue>
+        <fullName>Yamaha</fullName>
+        <default>false</default>
+        <label>Yamaha</label>
+    </customValue>
+    <customValue>
+        <fullName>Service Depot</fullName>
+        <default>false</default>
+        <label>Service Depot</label>
+    </customValue>
+    <customValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </customValue>
+    <masterLabel>Dealer Segment Types</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

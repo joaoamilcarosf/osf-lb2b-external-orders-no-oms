@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>True_Value__c</fullName>
+    <defaultValue>true</defaultValue>
+    <description>Used by admins to more easily set Process__c flag to true using Jitterbit</description>
+    <externalId>false</externalId>
+    <label>True Value</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
