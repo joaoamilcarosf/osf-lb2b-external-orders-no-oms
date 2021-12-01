@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Label_Account_RDD__c</fullName>
+    <externalId>false</externalId>
+    <formula>Account_ID__r.Name &amp; &quot;(&quot; &amp;  text(Delivery_Date__c) &amp; &quot;)&quot;</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Label - Account &amp; RDD</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

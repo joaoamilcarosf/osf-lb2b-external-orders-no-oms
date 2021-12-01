@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>B2B_Ever_Logged_In__c</fullName>
+    <externalId>false</externalId>
+    <formula>Account_ID__r.Parent.Ever_Logged_Into_B2B__c</formula>
+    <inlineHelpText>Has this Account Ever Logged into B2B?</inlineHelpText>
+    <label>B2B: Ever Logged In?</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

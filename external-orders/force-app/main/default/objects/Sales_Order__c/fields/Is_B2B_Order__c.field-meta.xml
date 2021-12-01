@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Is_B2B_Order__c</fullName>
+    <externalId>false</externalId>
+    <formula>if( ISPICKVAL( Origin__c , &quot;SAP&quot;) , False, True)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Is B2B  Order</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
