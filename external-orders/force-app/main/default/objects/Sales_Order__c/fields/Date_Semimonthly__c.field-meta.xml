@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Date_Semimonthly__c</fullName>
+    <description>Date text field for reporting purposes</description>
+    <externalId>false</externalId>
+    <inlineHelpText>YYYY-MM-H where H = 1 for 1st half and 2 for 2nd half</inlineHelpText>
+    <label>Year-Half-month</label>
+    <length>9</length>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
